@@ -63,7 +63,7 @@ npm run dev
 ```
 ## Anpassung
 
-Du kannst das Styling nach deinen Wünschen anpassen. Die relevanten Dateien befinden sich in den entsprechenden Verzeichnissen ( main.jsx/, main.scss/).
+Du kannst das Styling nach deinen Wünschen anpassen. Die relevanten Dateien befinden sich in den entsprechenden Verzeichnissen ( App.scss/, main.scss/).
 ## Autoren
 
 Autoren:
