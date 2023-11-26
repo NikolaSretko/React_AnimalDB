@@ -1,0 +1,29 @@
+//#23283e; #2a2f4c; #bdbddd; #cdcdff; #90a0d9;
+
+main{
+    text-align: center;
+    .animalGallery{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        justify-content: center;
+        gap: 30px;
+        .animalCard{
+            border: 1px solid ;
+            border-radius: 22px;
+            .funFact{
+                border: 1px solid;
+                border-radius: 22px;
+                background-color: #90a0d9;
+                color: #2a2f4c;
+                ul{
+
+                    li{
+                        text-align: left;
+                    }
+                }
+            }
+        }
+    }
+}
+
+

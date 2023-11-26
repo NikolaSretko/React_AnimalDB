@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    main {
+        .animalGallery {
+            grid-template-columns: 1fr;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    main {
+        .animalGallery {
+            gap: 15px;
+        }
+    }
+}
